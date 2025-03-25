@@ -119,7 +119,7 @@ Do you want to use a template?
 ```
 
 - Step 6: Provide the Project Owner's Name: You will be asked to enter the project owner's name.
-
+i
 ```text
 Project Owner name:
 ```
